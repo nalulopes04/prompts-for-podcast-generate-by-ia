@@ -18,7 +18,9 @@ O podcast vai falar sobre dicas para aprender a programar em python, conceitos c
 [Regras negativas]
 
 - Não quero que o nome tenha palavras em inglês.
-- Não quero que utilize as palavras: linguagem, programador, descobrindo ou aprendendo.                                                       |
+- Não quero que utilize as palavras: linguagem, programador, descobrindo ou aprendendo.                                                       ------------------------------------------------------------------------------------------------------------------------------------------------ |
+  
+  | :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | conteúdo | **Prompt:** Você é um **roteirista de podcast**.
 
 Estamos criando um podcast educativo chamado **“Pythonverso”**, focado em **conceitos fundamentais de Python**, voltado para **iniciantes** que querem compreender a base da linguagem de forma **leve, prática e envolvente**.
@@ -70,5 +72,5 @@ No **último episódio**, destaque que o Pythonverso é apenas uma **introduçã
 
 ### **Organização dos tópicos (ordem lógica de aprendizado)**
 
-Crie **15 episódios** que cubram todos os temas acima, com **progressão lógica** — do entendimento básico da linguagem até a aplicação prática. |
-
+Crie **15 episódios** que cubram todos os temas acima, com **progressão lógica** — do entendimento básico da linguagem até a aplicação prática.
+------------------------------------------------------------------------------------------------------------------------------------------------ |
